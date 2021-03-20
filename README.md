@@ -1,7 +1,10 @@
 # travel_app
 
-A new Flutter application.
+Simple Travel app UI with Flutter - 2 Screens, Just for practice ;).
 
+# Screenshots 
+
+<img src="https://github.com/Mohammed187/travel_app/blob/master/main_screen.png" height="500"> <img src="https://github.com/Mohammed187/travel_app/blob/master/destination_screen.png" height="500">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
